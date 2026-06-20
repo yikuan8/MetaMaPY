@@ -1,0 +1,46 @@
+test.txt|MMI|42.61|ceftriaxone|C0007561|[orch, antb]|"Ceftriaxone"-text-3-"ceftriaxone"-NN-0,"ceftriaxone"-text-3-"ceftriaxone"-NN-0,"CEFTRIAXONE"-text-3-"ceftriaxone"-NN-0,"cefTRIAXone"-text-3-"ceftriaxone"-NN-0|text|570/11;570/11;570/11;570/11|D02.065.589.099.249.190.190.155;D02.886.665.074.190.190.155;D03.633.100.300.249.190.190.155|
+test.txt|MMI|20.92|Dyspnea|C0013404|[sosy]|"Dyspnea"-text-0-"dyspnea"-NN-0,"DYSPNEA"-text-0-"dyspnea"-NN-0,"dyspnea"-text-0-"dyspnea"-NN-0,"Shortness of breath"-text-12-"shortness of breath"-NN-0,"Shortness of Breath"-text-12-"shortness of breath"-NN-0,"shortness of breath"-text-12-"shortness of breath"-NN-0|text|431/7;431/7;431/7;1427/19;1427/19;1427/19|C08.618.326;C23.888.852.371|
+test.txt|MMI|20.91|Chest Pain|C0008031|[sosy]|"Chest Pain"-text-12-"chest pain"-JJS-0,"Chest pain"-text-12-"chest pain"-JJS-0,"chest pain"-text-12-"chest pain"-JJS-0|text|1463/10;1463/10;1463/10|C23.888.592.612.233;F02.830.816.444.427;G11.561.790.444.451|
+test.txt|MMI|19.72|Community-Acquired Pneumonia|C0694549|[dsyn]|"Community-Acquired Pneumonia"-text-0-"Community-acquired pneumonia"-JJ-0,"Community-acquired pneumonia"-text-0-"Community-acquired pneumonia"-JJ-0,"community-acquired pneumonia"-text-0-"Community-acquired pneumonia"-JJ-0,"Community-Acquired Pneumonia"-text-0-"Community-acquired pneumonia"-JJ-0,"Community-acquired pneumonia"-text-0-"Community-acquired pneumonia"-JJ-0,"community-acquired pneumonia"-text-0-"Community-acquired pneumonia"-JJ-0|text|175/28;175/28;175/28;226/28;226/28;226/28|C01.234.500;C08.730.610.214|
+test.txt|MMI|16.70|Acute kidney injury|C2609414|[dsyn]|"Acute kidney injury"-text-0-"acute kidney injury"-JJ-0,"Acute Kidney Injury"-text-0-"acute kidney injury"-JJ-0|text|267/19;267/19|C12.050.351.968.419.780.050;C12.200.777.419.780.050;C12.950.419.780.050|
+test.txt|MMI|14.19|creatinine|C0010294|[orch, bacs]|"Creatinine"-text-2-"creatinine"-NN-0,"creatinine"-text-2-"creatinine"-NN-0,"CREATININE"-text-2-"creatinine"-NN-0,"Creatinine"-text-5-"creatinine"-NN-1,"creatinine"-text-5-"creatinine"-NN-1,"CREATININE"-text-5-"creatinine"-NN-1|text|525/10;525/10;525/10;803/10;803/10;803/10|D03.383.129.308.207|
+test.txt|MMI|9.86|oxygen|C0030054|[bacs, elii, phsu]|"Oxygen"-text-4-"oxygen"-NN-0,"oxygen"-text-4-"oxygen"-NN-0,"OXYGEN"-text-4-"oxygen"-NN-0|text|712/6;712/6;712/6|D01.268.185.550;D01.362.670|
+test.txt|MMI|9.08|azithromycin|C0052796|[orch, antb]|"Azithromycin"-text-3-"azithromycin"-NN-0,"AZITHROMYCIN"-text-3-"azithromycin"-NN-0,"azithromycin"-text-3-"azithromycin"-NN-0|text|586/12;586/12;586/12|D02.540.576.500.992.050|
+test.txt|MMI|7.62|Fever|C0015967|[sosy]|"Fever"-text-0-"fever"-NN-0,"fever"-text-0-"fever"-NN-0,"Fever"-text-12-"fever"-NN-0,"fever"-text-12-"fever"-NN-0|text|394/5;394/5;1448/5;1448/5|C23.888.119.344|
+test.txt|MMI|7.62|Kidney Failure, Acute|C0022660|[dsyn]|"Acute kidney injury"-text-0-"acute kidney injury"-JJ-0,"Acute Kidney Injury"-text-0-"acute kidney injury"-JJ-0,"acute kidney injury"-text-0-"acute kidney injury"-JJ-0,"AKI"-text-5-"AKI"-NN-0|text|267/19;267/19;267/19;741/3|x.x.x.x|
+test.txt|MMI|7.54|Antibiotics|C0003232|[antb]|"Antibiotics"-text-6-"antibiotics"-NNS-0,"antibiotics"-text-6-"antibiotics"-NNS-0,"Antibiotic"-text-10-"antibiotic"-JJ-0,"antibiotic"-text-10-"antibiotic"-JJ-0|text|854/11;854/11;1344/10;1344/10|x.x.x.x|
+test.txt|MMI|4.19|Plain chest X-ray|C0039985|[diap]|"Chest X-ray"-text-1-"Chest X-ray"-JJ-0,"chest x-ray"-text-1-"Chest X-ray"-JJ-0,"Chest x-ray"-text-1-"Chest X-ray"-JJ-0,"chest X-ray"-text-1-"Chest X-ray"-JJ-0,"Chest X-ray"-text-9-"Chest X-ray"-JJ-0,"chest x-ray"-text-9-"Chest X-ray"-JJ-0,"Chest x-ray"-text-9-"Chest X-ray"-JJ-0,"chest X-ray"-text-9-"Chest X-ray"-JJ-0|text|440/11;440/11;440/11;440/11;1247/11;1247/11;1247/11;1247/11||
+test.txt|MMI|3.75|Pentachlorophenol|C0030855|[orch, hops]|"PCP"-text-7-"PCP"-NN-0|text|1162/3|D02.455.426.559.389.657.190.633|
+test.txt|MMI|3.27|Antibiotics, Antitubercular|C0003237|[antb]|"Antibiotics"-text-6-"antibiotics"-NNS-0|text|854/11|D27.505.954.122.085.255.135|
+test.txt|MMI|2.09|Fever symptoms (finding)|C0424755|[fndg]|"Fever"-text-0-"fever"-NN-0,"fever"-text-0-"fever"-NN-0,"Fever"-text-12-"fever"-NN-0,"fever"-text-12-"fever"-NN-0|text|394/5;394/5;1448/5;1448/5||
+test.txt|MMI|1.97|Diagnosis|C0011900|[diap]|"Diagnosis"-text-0-"Diagnosis"-NN-0,"diagnosis"-text-0-"Diagnosis"-NN-0|text|215/9;215/9|E01;Y04|
+test.txt|MMI|1.90|Phencyclidine|C0031381|[orch, phsu]|"PCP"-text-7-"PCP"-NN-0|text|1162/3|D03.383.621.699|
+test.txt|MMI|1.57|Productive Cough|C0239134|[fndg]|"Productive cough"-text-0-"productive cough"-JJ-0,"Productive Cough"-text-0-"productive cough"-JJ-0,"productive cough"-text-0-"productive cough"-JJ-0|text|376/16;376/16;376/16||
+test.txt|MMI|1.44|Disease|C0012634|[dsyn]|"Condition"-text-7-"Condition"-NN-0|text|1082/9|C23.550.288|
+test.txt|MMI|1.05|Discharge disposition|C4759848|[fndg]|"Discharge Disposition"-text-7-"Discharge Disposition"-NNP-0,"Discharge disposition"-text-7-"Discharge Disposition"-NNP-0|text|1123/21;1123/21||
+test.txt|MMI|1.05|Follow-up status|C0589120|[fndg]|"Follow-up"-text-7-"Follow-up"-NN-0,"follow-up"-text-7-"Follow-up"-NN-0|text|1151/9;1151/9||
+test.txt|MMI|1.05|Hospital course|C0489547|[fndg]|"hospital course"-text-0-"Hospital Course"-NNP-1,"Hospital course"-text-0-"Hospital Course"-NNP-1|text|297/15;297/15||
+test.txt|MMI|1.05|Medical History|C0262926|[fndg]|"History of"-text-0-"history of"-NN-0,"history of"-text-0-"history of"-NN-0|text|365/10;365/10||
+test.txt|MMI|1.05|amoxicillin / clavulanate|C0054066|[phsu]|"amoxicillin-clavulanate"-text-7-"Amoxicillin-clavulanate"-NN-0,"Amoxicillin-Clavulanate"-text-7-"Amoxicillin-clavulanate"-NN-0|text|945/23;945/23||
+test.txt|MMI|1.01|Admitting diagnosis|C0332133|[fndg]|"Admitting diagnosis"-text-0-"Admitting Diagnosis"-NNP-0,"admitting diagnosis"-text-0-"Admitting Diagnosis"-NNP-0|text|154/19;154/19||
+test.txt|MMI|0.72|Clouded consciousness|C0683369|[fndg]|"Confusion"-text-12-"confusion"-NN-0|text|1478/9||
+test.txt|MMI|0.72|Day 4|C3840892|[fndg]|"Day 4"-text-4-"day 4"-NN-0|text|734/5||
+test.txt|MMI|0.72|Problem|C0033213|[fndg]|"Issue"-text-6-"issue"-NN-1|text|897/5||
+test.txt|MMI|0.72|cardiovascular surgery result: dyspnea|C2024878|[fndg]|"dyspnea"-text-0-"dyspnea"-NN-0|text|431/7||
+test.txt|MMI|0.52|Day 3|C3842675|[fndg]|"Day 3"-text-4-"day 3"-NN-0|text|688/5||
+test.txt|MMI|0.52|Day 5|C3842674|[fndg]|"Day 5"-text-6-"day 5"-NN-0|text|869/5||
+test.txt|MMI|0.52|Magnetic resonance neurography|C3805001|[diap]|"MRN"-text-0-"MRN"-NNS-0|text|38/3||
+test.txt|MMI|0.52|Male Gender|C1706180|[fndg]|"Male"-text-0-"male"-NN-0|text|327/4||
+test.txt|MMI|0.52|Normal Activity|C4697852|[fndg]|"Normal Activity"-text-11-"normal activity"-JJ-0|text|1370/15||
+test.txt|MMI|0.52|On IV|C3714655|[fndg]|"On IV"-text-3-"on IV"-IN-0|text|564/5||
+test.txt|MMI|0.52|Oral (intended site)|C4521986|[fndg]|"Oral"-text-6-"oral"-JJ-0|text|849/4||
+test.txt|MMI|0.52|Pneumocystis jiroveci pneumonia|C1535939|[dsyn]|"PCP"-text-7-"PCP"-NN-0|text|1162/3||
+test.txt|MMI|0.52|Return to ED|C4264559|[fndg]|"Return to ED"-text-12-"Return to ED"-NN-0|text|1400/12||
+test.txt|MMI|0.50|Antibiotic throat preparations|C3540706|[antb]|"Antibiotics"-text-6-"antibiotics"-NNS-0|text|854/11||
+test.txt|MMI|0.50|Antibiotics FOR TREATMENT OF HEMORRHOIDS AND ANAL FISSURES FOR TOPICAL USE|C3540707|[antb]|"Antibiotics"-text-6-"antibiotics"-NNS-0|text|854/11||
+test.txt|MMI|0.50|Antibiotics for systemic use|C3540704|[antb]|"Antibiotics"-text-6-"antibiotics"-NNS-0|text|854/11||
+test.txt|MMI|0.50|Antibiotics, Gynecological|C3540708|[antb]|"Antibiotics"-text-6-"antibiotics"-NNS-0|text|854/11||
+test.txt|MMI|0.50|Antibiotics, ophthalmologic|C3540710|[antb]|"Antibiotics"-text-6-"antibiotics"-NNS-0|text|854/11||
+test.txt|MMI|0.50|Antifungal Antibiotics, Topical|C3540705|[antb]|"Antibiotics"-text-6-"antibiotics"-NNS-0|text|854/11||
+test.txt|MMI|0.50|Medication.discharge|C0806915|[fndg]|"Discharge medications"-text-7-"Discharge Medications"-NNP-0|text|921/21||
+test.txt|MMI|0.50|antibiotics, intestinal|C3540709|[antb]|"Antibiotics"-text-6-"antibiotics"-NNS-0|text|854/11||
