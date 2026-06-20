@@ -135,14 +135,14 @@ If you use MetaMaPy in your research, please cite it. GitHub shows a
 ```bibtex
 @software{li_metamapy,
   author  = {Li, Yikuan},
-  title   = {{MetaMaPy: A Python re-implementation of MetaMapLite for UMLS concept extraction}},
+  title   = {{MetaMaPy: A Python re-implementation of MetaMap for UMLS concept extraction}},
   year    = {2026},
   url      = {https://github.com/yikuan8/MetaMaPy},
   version = {0.1.0}
 }
 ```
 
-Once a Zenodo DOI is minted (see below), cite the DOI instead.
+Once a Zenodo DOI is minted, cite the DOI instead.
 
 ## License & data
 
