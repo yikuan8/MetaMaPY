@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "metamapy"
+version = "0.1.0"
+description = "Python re-implementation of MetaMap/MetaMapLite for UMLS Metathesaurus concept extraction."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Yikuan Li" }]
+dependencies = [
+    "spacy>=3.5",
+    "lmdb>=1.4",          # local key-value store for the converted UMLS indexes
+]
+
+[project.optional-dependencies]
+# scispaCy biomedical models are the intended backbone; pinned separately
+# because scispaCy tracks specific spaCy versions.
+scispacy = ["scispacy>=0.5.3"]
+dev = ["pytest>=7", "ruff>=0.1"]
+
+[project.scripts]
+metamapy = "metamapy.cli:main"
+
+[tool.setuptools.package-data]
+metamapy = ["data/*.txt"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-dir]
+"" = "src"

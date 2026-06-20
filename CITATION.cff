@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use MetaMaPy in your research, please cite it as below."
+title: "MetaMaPy: A Python re-implementation of MetaMapLite for UMLS concept extraction"
+abstract: >-
+  MetaMaPy maps free biomedical and clinical text to UMLS Metathesaurus concepts.
+  It is a from-source Python re-implementation of NLM's MetaMapLite (longest-match
+  dictionary lookup, MetaMap 4-component scoring, MMI ranking, NegEx negation,
+  and abbreviation detection), emitting MMI and JSON output.
+type: software
+authors:
+  - family-names: Li
+    given-names: Yikuan
+    orcid: "https://orcid.org/0000-0001-7546-9979"
+version: 0.1.0
+date-released: "2026-06-20"
+license: MIT
+url: "https://github.com/yikuan8/MetaMaPy"
+repository-code: "https://github.com/yikuan8/MetaMaPy"
+keywords:
+  - UMLS
+  - MetaMap
+  - MetaMapLite
+  - clinical NLP
+  - named entity recognition
+  - concept extraction
+# After minting a Zenodo DOI, add it here so the "Cite this repository" button
+# and downstream tools use the DOI:
+# doi: "10.5281/zenodo.XXXXXXX"

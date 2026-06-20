@@ -1,0 +1,23 @@
+# UMLS data & built indexes — licensed, never commit
+# (anchored to repo root so the packaged src/metamapy/data/ is NOT ignored)
+/data/
+/indexes/
+*.RRF
+*.rrf
+*.zip
+*.tgz
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# spaCy / scispaCy models
+models/

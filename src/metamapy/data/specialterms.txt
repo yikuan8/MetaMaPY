@@ -1,0 +1,26 @@
+# MetaMaPy excluded-terms starter list.
+#
+# Format (one per line): "CUI:term" or "*:term", where `term` is the NORMALIZED
+# lookup form (lowercase, hyphens kept, possessives stripped). "*:term" excludes
+# that term for ANY concept. Lines starting with # are ignored.
+#
+# This is a small, conservative starter list — NOT the official NLM
+# specialterms.txt (which ships only with the data package). Extend or replace
+# via --index-dir's sibling config or Config.excluded_terms_file.
+#
+# Generic function/temporal words that otherwise map to administrative codes:
+*:patient
+*:patients
+*:home
+*:with
+*:without
+*:and
+*:day
+*:days
+*:week
+*:weeks
+*:course
+*:none
+*:stable
+*:normal
+*:history
